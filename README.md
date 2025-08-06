@@ -3,7 +3,6 @@ I'm Scott McAllister. I'm a coder, writer, and speaker!
 
 Let's Be Social
 ---
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v14.12.3/icons/mastodon.svg" alt="Mastodon" />](https://techhub.social/@stmcallister)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v14.12.3/icons/x.svg" alt="Twitter" />](https://twitter.com/stmcallister)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v14.12.3/icons/bluesky.svg" alt="Blue Sky" />](https://bsky.app/profile/stmcallister.bsky.social)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/stmcallister/)
